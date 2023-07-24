@@ -1,6 +1,6 @@
 {
   "name": "spotilink",
-  "version": "1.4.10",
+  "version": "2.0.0-beta",
   "description": "Parses Spotify links into Lavalink track objects.",
   "main": "dist/index",
   "types": "dist/index.d.ts",
@@ -12,7 +12,7 @@
     "test": "eslint --ext ts src",
     "prepublishOnly": "yarn build"
   },
-  "repository": "https://github.com/insane-devs/spotilink.git",
+  "repository": "https://github.com/Dolliwyx/spotilink.git",
   "dependencies": {
     "@types/node": "^16.11.11",
     "@types/ws": "^8.2.1",
