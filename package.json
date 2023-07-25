@@ -14,15 +14,15 @@
   },
   "repository": "https://github.com/Dolliwyx/spotilink.git",
   "dependencies": {
-    "@types/node": "^16.11.11",
-    "@types/ws": "^8.2.1",
+    "@types/node": "^16.18.39",
+    "@types/ws": "^8.5.5",
     "undici": "^5.22.1"
   },
   "devDependencies": {
-    "@typescript-eslint/eslint-plugin": "^5.5.0",
-    "@typescript-eslint/parser": "^5.5.0",
-    "eslint": "^8.4.0",
-    "typescript": "^4.5.2"
+    "@typescript-eslint/eslint-plugin": "^5.62.0",
+    "@typescript-eslint/parser": "^5.62.0",
+    "eslint": "^8.45.0",
+    "typescript": "^4.9.5"
   },
   "files": [
     "dist",
